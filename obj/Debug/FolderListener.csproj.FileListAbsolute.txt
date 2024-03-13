@@ -1,0 +1,10 @@
+C:\Users\Caner\source\repos\FolderListener\bin\Debug\FolderListener.exe.config
+C:\Users\Caner\source\repos\FolderListener\bin\Debug\FolderListener.exe
+C:\Users\Caner\source\repos\FolderListener\bin\Debug\FolderListener.pdb
+C:\Users\Caner\source\repos\FolderListener\obj\Debug\FolderListener.csproj.AssemblyReference.cache
+C:\Users\Caner\source\repos\FolderListener\obj\Debug\FolderListener.Form1.resources
+C:\Users\Caner\source\repos\FolderListener\obj\Debug\FolderListener.Properties.Resources.resources
+C:\Users\Caner\source\repos\FolderListener\obj\Debug\FolderListener.csproj.GenerateResource.cache
+C:\Users\Caner\source\repos\FolderListener\obj\Debug\FolderListener.csproj.CoreCompileInputs.cache
+C:\Users\Caner\source\repos\FolderListener\obj\Debug\FolderListener.exe
+C:\Users\Caner\source\repos\FolderListener\obj\Debug\FolderListener.pdb
